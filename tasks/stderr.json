@@ -1,0 +1,16 @@
+{
+  "input_method": "stdin",
+    "params": {
+      "job_id": {
+        "description": "The job_id of the task to kill",
+        "type": "String"
+      }
+    },
+  "output": {
+    "stderr": {
+      "description": "The output of stderr",
+      "type": "String"
+
+    }
+  }
+}
